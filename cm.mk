@@ -48,3 +48,4 @@ TARGET_BUILD_TYPE=user \
 USER=kxcr46
 
 
+TARGET_PREBUILT_KERNEL := device/motorola/milestone2/kernel 
